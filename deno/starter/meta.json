@@ -1,4 +1,9 @@
-[
-  "api/meals.ts",
-  "mod.ts"
-]
+{
+  "files": [
+    "api/meals.ts",
+    "mod.ts"
+  ],
+  "vscode": {
+    "deno.enable": true
+  }
+}
