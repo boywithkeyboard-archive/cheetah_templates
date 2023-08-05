@@ -7,7 +7,11 @@
 
 ### Cloudflare Workers ⚡
 
-- [`Starter`](https://github.com/boywithkeyboard/templates/tree/dev/cloudflare/starter) 🐣 [(Demo)](https://cheetah_starter.pages.dev) _- cheetah_
+- [`Starter`](https://github.com/boywithkeyboard/templates/tree/dev/cloudflare/starter)
+  🐣 [(Demo)](https://cheetah_starter.pages.dev)
+
+  🛠️ **Stack:** _cheetah_
+
 <!-- - [`File Upload`](https://github.com/boywithkeyboard/templates/tree/dev/cloudflare/file_upload) 📂 -->
 <!-- - [`URL Shortener`](https://github.com/boywithkeyboard/templates/tree/dev/cloudflare/url_shortener) 🔗
 
@@ -17,7 +21,11 @@
 
 ### Deno 🦕
 
-- [`Starter`](https://github.com/boywithkeyboard/templates/tree/dev/deno/starter) 🐣 [(Demo)](https://cheetah_starter.deno.dev) _- cheetah_
+- [`Starter`](https://github.com/boywithkeyboard/templates/tree/dev/deno/starter)
+  🐣 [(Demo)](https://cheetah_starter.deno.dev)
+
+  🛠️ **Stack:** _cheetah_
+
 <!-- - [`File Upload`](https://github.com/boywithkeyboard/templates/tree/dev/deno/file_upload) 📂 -->
 <!-- - [`URL Shortener`](https://github.com/boywithkeyboard/templates/tree/dev/deno/url_shortener) 🔗 [(Demo)](https://cheetah_url_shortener.deno.dev)
 
