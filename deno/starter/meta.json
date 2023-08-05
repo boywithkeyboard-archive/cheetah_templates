@@ -3,6 +3,10 @@
     "api/meals.ts",
     "mod.ts"
   ],
+  "imports": [
+    "cheetah",
+    "zod"
+  ],
   "vscode": {
     "deno.enable": true
   }
