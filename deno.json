@@ -4,14 +4,14 @@
     "singleQuote": true
   },
   "imports": {
-    "cheetah": "https://deno.land/x/cheetah@v1.2.0/mod.ts",
+    "cheetah": "https://deno.land/x/cheetah@v1.3.1/mod.ts",
     "mongo": "https://deno.land/x/mongo@v0.31.2/mod.ts",
     "nanoid": "https://esm.sh/nanoid@4.0.2?target=es2022",
     "planetscale/database": "https://esm.sh/@planetscale/database@1.10.0?target=es2022",
     "s3": "https://esm.sh/@aws-sdk/client-s3@3.378.0?target=es2022",
     "s3/presigner": "https://esm.sh/@aws-sdk/s3-request-presigner@3.378.0?target=es2022",
     "upstash": "https://deno.land/x/upstash_redis@v1.22.0/mod.ts",
-    "worker": "https://cdn.jsdelivr.net/npm/@cloudflare/workers-types@4.20230807.0/index.ts",
+    "worker": "https://cdn.jsdelivr.net/npm/@cloudflare/workers-types@4.20230814.0/index.ts",
     "zod": "https://deno.land/x/zod@v3.21.4/mod.ts"
   },
   "lock": false
