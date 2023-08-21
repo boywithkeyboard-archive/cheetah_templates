@@ -4,7 +4,7 @@
     "singleQuote": true
   },
   "imports": {
-    "cheetah": "https://deno.land/x/cheetah@v1.3.1/mod.ts",
+    "cheetah": "https://deno.land/x/cheetah@v1.4.0/mod.ts",
     "mongo": "https://deno.land/x/mongo@v0.31.2/mod.ts",
     "nanoid": "https://esm.sh/nanoid@4.0.2?target=es2022",
     "planetscale/database": "https://esm.sh/@planetscale/database@1.10.0?target=es2022",
