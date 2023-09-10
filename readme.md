@@ -8,7 +8,7 @@
 ### Cloudflare Workers ⚡
 
 - [`Starter`](https://github.com/boywithkeyboard/templates/tree/dev/cloudflare/starter)
-  🐣 [(Demo)](https://cheetah_starter.pages.dev)
+  🐣
 
   🛠️ **Stack:** _cheetah_
 
