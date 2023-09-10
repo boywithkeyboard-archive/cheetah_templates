@@ -22,7 +22,7 @@
 ### Deno 🦕
 
 - [`Starter`](https://github.com/boywithkeyboard/templates/tree/dev/deno/starter)
-  🐣 [(Demo)](https://cheetah_starter.deno.dev)
+  🐣 [(Demo)](https://cheetah-starter.deno.dev)
 
   🛠️ **Stack:** _cheetah_
 
