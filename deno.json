@@ -10,8 +10,8 @@
     "planetscale/database": "https://esm.sh/@planetscale/database@1.10.0?target=es2022",
     "s3": "https://esm.sh/@aws-sdk/client-s3@3.378.0?target=es2022",
     "s3/presigner": "https://esm.sh/@aws-sdk/s3-request-presigner@3.378.0?target=es2022",
-    "upstash": "https://deno.land/x/upstash_redis@v1.22.0/mod.ts",
-    "worker": "https://cdn.jsdelivr.net/npm/@cloudflare/workers-types@4.20230922.0/index.ts",
+    "upstash": "https://deno.land/x/upstash_redis@v1.23.4/mod.ts",
+    "worker": "https://cdn.jsdelivr.net/npm/@cloudflare/workers-types@4.20231016.0/index.ts",
     "zod": "https://deno.land/x/zod@v3.21.4/mod.ts"
   },
   "lock": false
